@@ -1,2 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap");
-
+body{
+    background-color: black;
+}
+.main{
+    margin: auto;
+    text-align: center;
+  height: 82vh;
+    color: white;
+}
+.main h1{
+    padding-top: 30px;
+}
